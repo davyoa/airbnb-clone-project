@@ -162,3 +162,6 @@ This is a repo for a clone of and airbnb app
 * **Images Table**: Store property images with references to `properties(id)`.
 * **Tags Table**: For categorizing properties (e.g., beach, luxury, family-friendly).
 
+
+# Feature Breakdown
+
